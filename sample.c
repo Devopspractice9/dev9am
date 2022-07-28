@@ -7,6 +7,15 @@ void Subtraction()
   c=a-b;
 }
 
+void Multiplication()
+{
+  c=a*b;
+}
+
+void Division()
+{
+  c=a/b;
+}
 void main()
 {
   printf(" Sample code ");
