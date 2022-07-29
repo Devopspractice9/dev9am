@@ -1,3 +1,18 @@
+void test-code
+{
+  s.o.print(" Test code");  
+  s.o.print(" Test code");  
+  s.o.print(" Test code");  
+  s.o.print(" Test code");  
+  s.o.print(" Test code");  
+}
+
+
+
+
+
+
+
 class Main
 {
     s.o.print(" MAIN CODE...	");
